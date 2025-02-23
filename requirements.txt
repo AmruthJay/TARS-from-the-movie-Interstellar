@@ -1,0 +1,8 @@
+os
+re
+subprocess
+sounddevice
+scipy
+speechrecognition
+tts
+ollama
